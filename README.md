@@ -16,12 +16,6 @@ I'm a computer enthusiast with an insatiable curiosity for technology. My journe
 
 📫 You can reach out to me through email at [your@email.com], and I'll be glad to connect with you!
 
-## Let's Connect
-
-[![LinkedIn](https://image.flaticon.com/icons/png/128/174/174857.png)](Your LinkedIn Profile Link)
-[![Twitter](https://image.flaticon.com/icons/png/128/1384/1384017.png)](Your Twitter Profile Link)
-[![Portfolio](https://image.flaticon.com/icons/png/128/1375/1375893.png)](Your Portfolio/Personal Website Link)
-
 ## Fun Fact
 
 One of my favorite hobbies is building custom PCs from scratch!
