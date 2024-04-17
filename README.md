@@ -14,7 +14,7 @@ I'm a computer enthusiast with an insatiable curiosity for technology. My journe
 
 ## Get in Touch
 
-📫 You can reach out to me through email at roadsfront@gmail.com, and I'll be glad to connect with you!
+📫 You can reach out to me through email at [your@email.com], and I'll be glad to connect with you!
 
 ## Let's Connect
 
